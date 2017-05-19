@@ -14,7 +14,7 @@ const bucket = new VuePouchDB.Bucket({
   // are shared with each database.
   config: {
     // Remote Server
-    remote: 'http://ht.np.ole.org:5982',
+    remote: 'http://127.0.0.1:5984',
 
     // Is DB Remote Only?, default: false
     remoteOnly: false,

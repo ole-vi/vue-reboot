@@ -1,6 +1,6 @@
 ﻿<template>
   <div class="footer">
-    <small>&copy; mlaxman.com.np</small>
+    <small>&copy; Open Learning Exchange</small>
   </div>
 </template>
 

@@ -17,7 +17,7 @@
     name: 'hello',
     dbsetup: {
       name: 'chats',
-      options: {'remote': 'http://raju.np.ole.org:5985'
+      options: {'remote': 'http://127.0.0.1:5984'
       }
     },
     data: function () {

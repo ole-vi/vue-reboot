@@ -4,10 +4,7 @@
           <a href="https://www.facebook.com/mlaxman.com.np" target="_blank">
               <img src="./../assets/facebook.png" width="64px"/>
           </a>
-          <a href="skype:lmmrss?chat">
-              <img src="./../assets/skype.png" width="64px"/>
-          </a>
-          <a href="https://github.com/lmmrssa" target="_blank">
+          <a href="https://github.com/ole-vi/vue-reboot" target="_blank">
               <img src="./../assets/github.png" width="64px"/>
           </a>
           <a href="https://bitbucket.org/lmmrssa" target="_blank">
